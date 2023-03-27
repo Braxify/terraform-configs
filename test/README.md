@@ -1,5 +1,5 @@
-# First config 
-Provider: https://github.com/shekeriev/terraform-provider-virtualbox>
+# The first config 
+Provider: https://github.com/shekeriev/terraform-provider-virtualbox
 
 ## Usage
 
